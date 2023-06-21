@@ -10,3 +10,10 @@
 section {
   padding-top: 5rem;
 }
+
+.my-alert .close {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 0.75rem 1.25rem;
+}
